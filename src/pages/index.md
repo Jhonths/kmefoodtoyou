@@ -31,7 +31,7 @@ sections:
         style: primary
         arrow: false
         type: action
-      - title: ''
+      - title: အဖျော်
         url: အဖျော်ယာမကာ(Drinks Menu)
         style: primary
         arrow: false
