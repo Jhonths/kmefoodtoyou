@@ -22,7 +22,7 @@ sections:
 
       2.                            09760992970
     actions:
-      - title: စားသောက်ဆိုင်List
+      - title: စားသောက်ဆိုင်
         url: /store
         arrow: true
         style: primary
