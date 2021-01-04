@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: Restaurants List
-    background_image: images/istockphoto-516329534-612x612.jpg
+    background_image: images/istockphoto-1018141890-612x612.jpg
     background_image_opacity: 60
     content: >-
       # **KME-FOOD-TO-YOU APPLICATION**
