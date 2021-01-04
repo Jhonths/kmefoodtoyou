@@ -26,7 +26,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-      - title: ''
+      - title: အစားအစာ
         url: lorem-ipsum
         style: primary
         arrow: false
