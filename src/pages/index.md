@@ -7,10 +7,20 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 60
     content: >-
-      # Real, beautiful plants right to your door
+      # **KME-FOOD-TO-YOU APPLICATION**
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      ကျွန်ုပ်တို့၏ KMEFOODTOYOU Application သည်ကျောက်မဲမြို့အတွင်း
+      လူကြီးမင်းတို့မှာယူလိုသောစားသောက်ဆိုင်မှ အစားအသောက်များကို
+      လွယ်ကူစွာမှာယူနိုင်သည်သာမက
+      လူကြီးမင်းတို့အိမ်အရောက်ပို့ဆောင်ပေးသောစနစ်ဖြစ်ပါသည်။
+
+
+      ###### **ကျောက်မဲမြို့အတွင်း KME-FOODTOYOU APP မှာ မှာယူနိုင်ပြီ။**
+
+      1. ဆက်သွယ်ရန် - 0943145182
+
+      2.                            09760992970
     actions:
       - title: See all items
         url: /store
