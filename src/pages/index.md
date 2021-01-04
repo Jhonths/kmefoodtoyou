@@ -32,7 +32,7 @@ sections:
         arrow: false
         type: action
       - title: lorem-ipsum
-        url: အဖျော်ယာမကာ
+        url: အဖျော်ယာမကာ(Drinks Menu
         style: primary
         arrow: false
         type: action
