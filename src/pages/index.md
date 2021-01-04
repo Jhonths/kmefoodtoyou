@@ -1,5 +1,5 @@
 ---
-title: KME-Foo
+title: KME-Food
 white_header: true
 sections:
   - type: hero_section
