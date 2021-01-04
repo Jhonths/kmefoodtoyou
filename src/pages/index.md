@@ -32,7 +32,7 @@ sections:
         arrow: false
         type: action
       - title: lorem-ipsum
-        url: ''
+        url: အဖျော်ယာမကာ
         style: primary
         arrow: false
         type: action
