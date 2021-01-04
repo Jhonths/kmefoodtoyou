@@ -3,7 +3,7 @@ title: KME-FoodToYou
 white_header: true
 sections:
   - type: hero_section
-    section_id: Restaurant list
+    section_id: Restaurants List
     background_image: images/header.jpg
     background_image_opacity: 80
     content: >-
