@@ -32,7 +32,7 @@ sections:
         arrow: false
         type: action
       - title: lorem-ipsum
-        url: lorem-ipsum
+        url: ''
         style: primary
         arrow: false
         type: action
