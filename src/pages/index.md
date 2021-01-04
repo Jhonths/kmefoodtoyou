@@ -22,7 +22,7 @@ sections:
 
       2.                            09760992970
     actions:
-      - title: See all items
+      - title: ''
         url: /store
         arrow: true
         style: primary
