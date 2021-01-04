@@ -26,7 +26,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-      - title: အစားအသောက်များ(
+      - title: အစားအသောက်များ(Menu
         url: lorem-ipsum
         style: primary
         arrow: false
