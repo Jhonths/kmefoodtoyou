@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: Restaurants List
     background_image: images/header.jpg
-    background_image_opacity: 80
+    background_image_opacity: 0
     content: >-
       # Real, beautiful plants right to your door
 
