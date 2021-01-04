@@ -26,7 +26,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-      - title: lorem-ipsum
+      - title: ''
         url: lorem-ipsum
         style: primary
         arrow: false
